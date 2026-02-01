@@ -1,0 +1,214 @@
+{
+  "businessInfo": {
+    "name": "Chucks Cheeseburgers",
+    "founder": "Charlie Wende",
+    "established": 2024,
+    "heroImage": "https://res.cloudinary.com/dsbllwpbh/image/upload/v1769088619/home-hero-burger_ljpzue.jpg",
+    "contact": {
+      "email": "chuckscheeseburgers@gmail.com",
+      "phone": "630-642-4794",
+      "location": {
+        "city": "Batavia",
+        "state": "Illinois",
+        "primary_venue": "Batavia Farmers Market"
+      }
+    },
+    "socialMedia": {
+      "instagram": "@chuckscheeseburgers",
+      "tiktok": "@chuckscheeseburgers"
+    }
+  },
+  "branding": {
+    "palette": {
+      "primaryRed": {
+        "hex": "#B92B27",
+        "usage": "Headers, Primary Buttons, Accents",
+        "description": "Deep, appetizing red evocative of ketchup and heat."
+      },
+      "primaryYellow": {
+        "hex": "#FFC107",
+        "usage": "Secondary Buttons, Highlights, 'Cheese' elements",
+        "description": "Golden yellow, high energy, resembles american cheese."
+      },
+      "darkCharcoal": {
+        "hex": "#1A1A1A",
+        "usage": "Footer Background, Primary Text, Strong Contrast areas",
+        "description": "Softer than pure black, adds a modern industrial feel."
+      },
+      "offWhite": {
+        "hex": "#F9F9F9",
+        "usage": "Section Backgrounds",
+        "description": "Clean, fresh background to make food photos pop."
+      },
+      "woodTexture": {
+        "hex": "#5D4037",
+        "usage": "Table surfaces, rustic accents"
+      }
+    },
+    "typography": {
+      "fontFamilyHeadings": "Bebas Neue",
+      "fontFamilyBody": "Outfit",
+      "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;600;700&display=swap",
+      "weights": {
+        "regular": 400,
+        "bold": 700,
+        "extraBold": 800
+      },
+      "styleGuide": "Headings should be ExtraBold and sentence case. Body text should be clean with generous line height."
+    },
+    "visualMotifs": [
+      "String Lights (Top borders/Hero sections)",
+      "Steam/Smoke elements (overlay on food images)",
+      "Rustic Wood Surfaces",
+      "Rounded corners on buttons and image frames"
+    ],
+    "uiComponents": {
+      "primaryButton": {
+        "backgroundColor": "#B92B27",
+        "textColor": "#FFFFFF",
+        "borderRadius": "25px"
+      },
+      "secondaryButton": {
+        "backgroundColor": "#FFC107",
+        "textColor": "#1A1A1A",
+        "borderRadius": "25px"
+      }
+    }
+  },
+  "brandStory": {
+    "mission": "Serve elite-quality smash burgers that keep people coming back.",
+    "about": "Chuck's Cheeseburgers started in 2024 as a home kitchen experiment. What began with feeding friends before football camp quickly grew into a recognizable brand in Batavia. We focus on consistent flavor, clean operations, and a high-energy vibe.",
+    "tagline": "Simple Mission. Big Flavor.",
+    "futureGoals": "Expanding catering, adding merch, and preparing for a food trailer in 2026."
+  },
+  "menu": {
+    "burgers": [
+      {
+        "id": "classic-smash",
+        "name": "Classic Smash",
+        "price": 9.00,
+        "description": "Single smash patty, american cheese, pickles, grilled/raw onions, lettuce, tomato, and Chuck's Signature Sauce.",
+        "image": "https://res.cloudinary.com/dsbllwpbh/image/upload/ai-classic-smash_o9llpb.jpg"
+      },
+      {
+        "id": "double-smash",
+        "name": "Double Smash",
+        "price": 12.00,
+        "description": "Two crispy-edged patties, double american, pickles, grilled onions, lettuce, tomato, and Signature Sauce.",
+        "image": "https://res.cloudinary.com/dsbllwpbh/image/upload/ai-double-smash_qcgpkz.jpg"
+      }
+    ],
+    "addons": [
+      {
+        "id": "bacon",
+        "name": "Bacon",
+        "price": 3.00,
+        "description": "Thick-cut, crispy, high quality bacon.",
+        "image": "https://res.cloudinary.com/dsbllwpbh/image/upload/v1769088619/ai-classic-smash-bacon_jj76j3.jpg"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Bottled Water",
+        "price": 1.00
+      },
+      {
+        "name": "Soda",
+        "price": 2.00
+      },
+      {
+        "name": "Gatorade",
+        "price": 3.00
+      }
+    ],
+    "dietaryNotes": [
+      "No vegetarian burger options currently.",
+      "No gluten-free buns (burger bowls available upon request)."
+    ]
+  },
+  "services": {
+    "catering": {
+      "description": "We bring the full Chuck's experience to private events, corporate lunches, and parties. We cook fresh on-site and serve with speed.",
+      "capacity": "50 to 300+ people",
+      "serviceArea": "Generally within 20 miles of Batavia, IL (flexible for large events)",
+      "leadTime": "2-4 weeks recommended",
+      "bookingLink": "https://forms.gle/QrroWDrRviuV811n6",
+      "eventTypes": [
+        "Corporate lunches",
+        "Graduation parties",
+        "Birthday parties",
+        "Real estate open houses",
+        "Festivals",
+        "Car shows"
+      ]
+    },
+    "merchandise": [
+      {
+        "item": "T-Shirt",
+        "price": 25.00,
+        "details": "Black tee with Chuck's Cheeseburgers logo"
+      }
+    ]
+  },
+  "schedule": {
+    "recurring": {
+      "event": "Batavia Farmers Market",
+      "day": "Saturday",
+      "time": "8:00 AM - 12:00 PM",
+      "season": "May through October"
+    },
+    "upcomingHighlights2025": [
+      "Wrestling Tournament (Jan 11th)",
+      "Private party bookings (TBA)",
+      "Card show appearances (TBA)",
+      "Summer festival pop-ups (TBA)"
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "I LOVE THESE BURGERS!",
+      "author": "Emma C"
+    },
+    {
+      "quote": "Best burger I've ever had!",
+      "author": "Farmers Market Client"
+    },
+    {
+      "quote": "The smash burgers were so good that I never got one. Everyone told me how great they were, so we will be hiring Chuck's Cheeseburgers in the very near future.",
+      "author": "Dave Murray",
+      "title": "Business Agent, Ironworkers 63 Union"
+    },
+    {
+      "quote": "You make a better burger than my dad.",
+      "author": "Early Customer (Dom)"
+    }
+  ],
+  "locationsServed": [
+    "Batavia",
+    "Geneva",
+    "St. Charles",
+    "North Aurora",
+    "Aurora",
+    "Elburn",
+    "Sugar Grove",
+    "Broadview"
+  ],
+  "faq": [
+    {
+      "question": "Do you offer gluten-free options?",
+      "answer": "No gluten-free buns yet, but we offer no-bun burger bowls."
+    },
+    {
+      "question": "Do you travel for catering?",
+      "answer": "Generally within 20 miles of Batavia, but flexible for larger events."
+    },
+    {
+      "question": "Do you serve vegetarian options?",
+      "answer": "Not currently, we focus on smash burgers."
+    },
+    {
+      "question": "How early should I book catering?",
+      "answer": "2-4 weeks ahead is recommended, but last-minute requests are possible depending on schedule."
+    }
+  ]
+}
