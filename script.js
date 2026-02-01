@@ -5,7 +5,7 @@
 const dataUrl = './zerocms-business-data-chucks.json';
 
 // Add timestamp to bypass cache and always fetch fresh data
-fetch(`${dataUrl}?v=${Date.now()}`)
+fetch(dataUrl + '?t=' + Date.now())
   .then(response => {
     if (!response.ok) {
       throw new Error('Failed to load business data');
