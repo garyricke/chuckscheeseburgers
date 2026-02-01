@@ -2,7 +2,7 @@
 // - Chuck's Cheeseburgers: https://assets.codepen.io/3457845/zerocms-business-data-chucks.json
 // - Bloom & Petal Florist: https://assets.codepen.io/3457845/zerocms-business-data-example-florist.json
 
-const dataUrl = 'https://assets.codepen.io/3457845/zerocms-business-data-chucks.json';
+const dataUrl = './zerocms-business-data-chucks.json';
 
 // Add timestamp to bypass cache and always fetch fresh data
 fetch(`${dataUrl}?v=${Date.now()}`)
