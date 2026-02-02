@@ -101,7 +101,8 @@
         "id": "triple-smash",
         "name": "Triple Smash",
         "price": 15.00,
-        "description": "Three crispy-edged patties, triple american, pickles, grilled onions, lettuce, tomato, and Signature Sauce."
+        "description": "Three crispy-edged patties, triple american, pickles, grilled onions, lettuce, tomato, and Signature Sauce.",
+        "image": "https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto/v1770072792/Gemini_Generated_Image_5tdqtj5tdqtj5tdq_hl47ao.png"
       }
     ],
     "addons": [
